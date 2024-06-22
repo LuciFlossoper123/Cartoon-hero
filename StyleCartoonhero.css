@@ -1,0 +1,18 @@
+body {
+    background-image: url(D:\Git\Cartoon-hero\images\bw4.jpeg);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+
+}
+
+h1 {
+    font-weight: 300;
+    color: yellow;
+   
+}
+
+figcaption{
+    color: yellow;
+    font-style: italic;
+    font-weight: 200;
+}
