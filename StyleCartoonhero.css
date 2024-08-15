@@ -4,6 +4,13 @@ body {
 
 }
 
+header {
+    display: flex;
+    align-items: center;
+    wrap: nowrap;
+    
+}
+
 h1 {
     font-weight: 300;
     color: yellow;
